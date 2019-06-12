@@ -6323,6 +6323,11 @@ stdout-stream@^1.4.0:
   dependencies:
     readable-stream "^2.0.1"
 
+steller-css@^1.0.0-alpha.6:
+  version "1.0.0-alpha.6"
+  resolved "https://registry.yarnpkg.com/steller-css/-/steller-css-1.0.0-alpha.6.tgz#6dfd4debb3ba507424c563c8b823c0f36280f274"
+  integrity sha512-VrLI0BpT7MRFveQp3oIws4qpTX1bFKDrVZJdAYVfID5Y+CCcXNh2uHHx9h0HZtSGGP3vY9HARVFzZnz3jb4F7A==
+
 stream-browserify@^2.0.1:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/stream-browserify/-/stream-browserify-2.0.2.tgz#87521d38a44aa7ee91ce1cd2a47df0cb49dd660b"
